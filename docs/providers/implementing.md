@@ -7,7 +7,7 @@ permalink: /providers/implementing/
 Implementing a Provider Client
 ==============================
 
-> 💡 **TIP** You may create new provider clients by copying the layout of an existing package. See the [first party](/providers/league/) and [third party](/providers/thirdparty/) provider clients for good examples.
+> 💡 **TIP** You may create new provider clients by copying the layout of an existing package. See the [first party](/docs/providers/league.md) and [third party](/docs/providers/thirdparty.md) provider clients for good examples.
 
 > ⚠️ **Attention!** When choosing a name for your package, please don’t use the `league` vendor prefix or the `League` vendor namespace, as this implies it is officially supported. You should use your own username as the vendor prefix, and prepend `oauth2-` to the package name to make it clear your package works with `league/oauth2-client`.
 >
